@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **𝐂# & C++**
 
+- 🚀 When I'm bored or in my free time, I work on **Python projects**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/h4ck3dr4du" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="h4ck3dr4du" height="30" width="40" /></a>

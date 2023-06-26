@@ -20,4 +20,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/H4cK3dR4Du?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Profile Views">
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/github/stars/imvast?color=f429ff&style=for-the-badge&logo=github&label=Star" alt="Profile Views">
+</p>

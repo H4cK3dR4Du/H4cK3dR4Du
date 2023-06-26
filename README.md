@@ -17,4 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=H4cK3dR4Du" alt="Profile Views">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/H4cK3dR4Du?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Profile Views">
+</p>
 

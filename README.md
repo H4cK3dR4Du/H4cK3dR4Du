@@ -1,29 +1,90 @@
-<h1 align="center">Hi 👋, I'm 𝐇𝟒𝐜𝐊𝟑𝐝𝐑𝟒𝐃𝐮</h1>
-<h3 align="center">I am a Python, Javascript, GoLang, and HTML programmer.</h3>
+![Header](./1.png)
 
-- 🛠️ I’m currently working on **The Biggest AIO Checker Tool (+30 Account Checkers)**
+<h1 align="center">H4cK3dR4Du</h1>
+<a href="https://github.com/H4cK3dR4Du"></a>
+<a href="https://discord.gg/raducord"></a>
 
-- 🌱 I’m currently learning **𝐂# & C++**
+```
+📬 Contact Me
 
-- 🚀 When I'm bored or in my free time, I work on **Python projects**
+- Telegram : t.me/RaduService
+- Channel  : t.me/H4cK3dR4Du
+- Discord  : discord.gg/raducord
 
-- 🔥 Upcoming Repositories : **Discord MassDM (Captcha Solver)** & **A Lot Of Account Checkers**
+🌐 Life Snapshot
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/h4ck3dr4du" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="h4ck3dr4du" height="30" width="40" /></a>
-<a href="https://discord.gg/nA6cpGmejn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
+- Languages Spoken: 
+  - Romanian
+  - Spanish
+  - English
+- Age: 17
+
+💻 Coding Expertise
+
+- Languages:
+  - Expert: 
+    - Python
+    - HTML & CSS
+    - GO
+  - Intermediate:
+    - JavaScript
+    - C++
+  - Learning:
+    - Assembly
+    - Rust
+
+🛠️ Specialties
+
+- Reverse Engineering
+- Task Automation
+- Artificial Intelligence
+- Website development
+
+🖥️ My Beastly Setup
+
+- PC Build:
+  - Processor : AMD Ryzen 9 7900X | 12 cores, 24 threads
+  - RAM       : 64GB DDR5
+  - GPU       : NVIDIA RTX 4080 | 16GB GDDR6X
+  - Storage   : 1TB NVMe SSD (OS) + 2TB NVMe SSD (Storage)
+  - Cooling   : Air cooler
+  - Monitor   : 2x 4K Monitors
+
+🔧 Development Environment
+
+- IDE:
+  - Visual Studio Code
+  - VS Code 2022
+
+- Operating Systems:
+  - Linux: Ubuntu 22.04 LTS
+  - Windows 11
+  - MacOS: macOS Ventura on MacBook Pro M2 Max | 12 cores, 32GB RAM, 38-core GPU
+
+🚀 Projects
+
+- Future projects:
+  - Hcaptcha Unflagged Solver
+  - Facebook/Twitter Account Generator
+  - AIO Bruteforcer (+70 Sites)
+
+- Im working on:
+  - 2b2t Reverse Proxy
+  - Minecraft Bedrock Hacked Client (R.I.P pdb)
+  - Twitch AIO (Kasada Full Reverse)
+  - Check out my repositories to see what I'm working on!
+```
+<br>
+<h2 align="center">Skills </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,golang,js,vscode,c,cpp,cs,html,css" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=H4cK3dR4Du&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api/?username=H4cK3dR4Du&title_color=219ebc&text_color=bde0fe&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=false&count_private=true" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/H4cK3dR4Du?color=FF0000&style=for-the-badge&logo=github&label=Follow" alt="Profile Views">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/H4cK3dR4Du?color=FF0000&style=for-the-badge&logo=github&label=Star" alt="Profile Views">
-</p>
+
+![Footer](./2.png)
